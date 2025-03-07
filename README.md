@@ -23,5 +23,4 @@ pi_resized = cv2.cvtColor(pi_resized, cv2.COLOR_BGRA2BGR)
 🔹 Troubleshoot the bugs -  Sudden shot down of the code when no face detected or when face disappear from the frame
 🔹 More Symbols & Emojis – Allow users to choose from various symbols/emojis.
 🔹 Better Landmark Detection – Improve tracking accuracy.
-🔹 Multi-Person Support – Detect eyes for multiple faces at once.
 🔹 Interactive GUI – Add a simple UI for customizing overlays.
