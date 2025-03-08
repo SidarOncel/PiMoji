@@ -21,5 +21,5 @@ pi_resized = cv2.cvtColor(pi_resized, cv2.COLOR_BGRA2BGR)
 
  - Future Improvements:
 🔹 More Symbols & Emojis – Allow users to choose from various symbols/emojis.
-
+🔹 Closing Option - Add a external closing option
 🔹 Interactive GUI – Add a simple UI for customizing overlays.
