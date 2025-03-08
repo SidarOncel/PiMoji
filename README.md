@@ -4,13 +4,14 @@ PiMoji is a computer vision project that detects eyes and overlays a π (Pi) sym
  - Features
  Real-time Eye Tracking – Detects eyes using OpenCV or MediaPipe
  Pi Symbol Overlay – Places a Pi symbol on detected eyes
- Customizable Detection – Switch between Haar cascades and MediaPipe
  Fun & Interactive – Experiment with different symbols
 
 📌 Usage
+You have to choose an emoji.
 The script will open your webcam.
 It will detect your eyes and place the Pi symbol on them.
-Press 'q' to exit the program.
+Can be closed with close option. 
+
 
 🔧 Troubleshooting
 ⚠️ Pi symbol not appearing? Ensure the PNG file is in the correct directory.
