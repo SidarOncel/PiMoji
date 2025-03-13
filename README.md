@@ -35,4 +35,6 @@ Can be closed with close option.
 
 pi_resized = cv2.cvtColor(pi_resized, cv2.COLOR_BGRA2BGR)
 
- - Future Improvements:
+📌 Creators & Maintainers
+Parishad Pourrajab 
+Sidar Baran Oncel 
