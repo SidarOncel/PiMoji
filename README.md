@@ -16,7 +16,10 @@ cd PiMoji
 2️⃣ Install Dependencies
 
 Ensure you have Python installed, then install the required libraries:
-pip install opencv-python mediapipe numpy
+pip install opencv-python
+pip install mediapipe
+pip install numpy
+pip install pygame
 
 
 📌 Usage
