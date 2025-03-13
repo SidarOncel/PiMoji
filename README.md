@@ -6,6 +6,19 @@ PiMoji is a computer vision project that detects eyes and overlays a π (Pi) sym
  Pi Symbol Overlay – Places a Pi symbol on detected eyes
  Fun & Interactive – Experiment with different symbols
 
+🛠️ Installation
+
+1️⃣ Clone the Repository
+
+git clone https://github.com/yourusername/PiMoji.git
+cd PiMoji
+
+2️⃣ Install Dependencies
+
+Ensure you have Python installed, then install the required libraries:
+pip install opencv-python mediapipe numpy
+
+
 📌 Usage
 You have to choose an emoji.
 The script will open your webcam.
