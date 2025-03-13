@@ -10,7 +10,6 @@ PiMoji is a computer vision project that detects eyes and overlays a π (Pi) sym
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/PiMoji.git
 cd PiMoji
 
 2️⃣ Install Dependencies
